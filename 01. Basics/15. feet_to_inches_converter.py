@@ -1,3 +1,3 @@
 feet = float(input("Enter feet: "))
-inches = feet * 12            # arithmetic *
+inches = feet * 12            
 print("Inches =", inches)
